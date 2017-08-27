@@ -1,0 +1,2 @@
+# trainingexercises
+Exercises for Beginners
